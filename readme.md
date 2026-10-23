@@ -1,0 +1,1 @@
+arknights_endfield/simulation.py 模拟抽卡，策略为寻找目标角色。输入目标角色名称，输出模拟抽卡次数统计结果。

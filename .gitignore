@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / 本地配置
+.trae/
+.idea/
+.vscode/

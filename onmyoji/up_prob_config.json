@@ -1,0 +1,16 @@
+{
+    "full_collection_sp": [
+        {"min": 0, "max": 59, "prob": 0.10},
+        {"min": 60, "max": 119, "prob": 0.12},
+        {"min": 120, "max": 179, "prob": 0.14},
+        {"min": 180, "max": 239, "prob": 0.18},
+        {"min": 240, "max": 299, "prob": 0.25},
+        {"min": 300, "max": 359, "prob": 0.40},
+        {"min": 360, "max": 419, "prob": 0.55},
+        {"min": 420, "max": 449, "prob": 0.80},
+        {"min": 450, "max": 450, "prob": 1.00}
+    ],
+    "full_collection_ssr": [],
+    "non_full_collection_sp": [],
+    "non_full_collection_ssr": []
+}
